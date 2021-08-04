@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelrw19
+- 👋 Hi, my name is Michael and I'm an International Student at Ryerson University majoring in Computer Science (2nd Year)
 - 👀 I’m interested in UI Design, Android Software Development, Web Development, and Game Development
 - 🌱 I’m currently learning how to make an android application using Java in Android Studio
 - 💞️ I’m looking to collaborate on (I don't know yet)
