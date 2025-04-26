@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Michael and I'm a student at Toronto Metropolitan University majoring in Computer Science (4th Year)
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Web Development & Data Mining
 - 📫 How to reach me: michael.r.widianto@torontomu.ca
 
 <!---
