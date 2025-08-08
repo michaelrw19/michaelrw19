@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Michael and I'm a student at Toronto Metropolitan University majoring in Computer Science (4th Year)
-- 👀 I’m interested in Web Development & Data Mining
-- 📫 How to reach me: michael.r.widianto@torontomu.ca
+- 👋 Hi, my name is Michael and I a fresh graduate from Toronto Metropolitan University majoring in Computer Science
+- 👀 I’m interested in Web Development & Data Analytics
+- 📫 How to reach me: michaelrevi19@gmail.com
 
 <!---
 michaelrw19/michaelrw19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
