@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Michael and I a fresh graduate from Toronto Metropolitan University majoring in Computer Science
+- 👋 Hi, my name is Michael and I'm a fresh graduate from Toronto Metropolitan University majoring in Computer Science
 - 👀 I’m interested in Web Development & Data Analytics
 - 📫 How to reach me: michaelrevi19@gmail.com
 
